@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\xampp\\htdocs\\codepolitan-php",
+      "environment": [],
+      "program": "c:\\xampp\\htdocs\\codepolitan-php\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\Program Files (x86)\\KF-MinGW\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
