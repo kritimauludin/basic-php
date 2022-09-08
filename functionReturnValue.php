@@ -13,11 +13,3 @@ function sum(int $a, int $b): int
 
 $result = sum(1, 2);
 var_dump($result);
-
-function getName(string $name, $filter)
-{
-    $filterName = $filter($name);
-    echo "Helll $filterName" . PHP_EOL;
-}
-
-getName("kriti", "strtoupper");
